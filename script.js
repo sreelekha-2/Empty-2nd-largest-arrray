@@ -48,7 +48,7 @@ console.log(max);
 console.log(secMax);
 
 //4.print elements in the given range
-const arr4 = [1, 3, 4, 9, 11, 15, 24, 27, 31, 35, 53, 68, 71, 77, 84, 98];
+const arr4 = [1, 3, 4, 9, 11, 15, 24, 27, 31, 35, 53, 68, 70, 71, 77, 84, 98];
 
 let startRange = 0;
 let endRange = 10;
