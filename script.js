@@ -33,7 +33,7 @@ for (let i = 0; i < length; i++) {
 console.log(arr2);
 
 //3.2nd largest element in an array
-const arr3 = [10, 5, 2, 13];
+const arr3 = [-10, -2, -13, -40];
 let max = arr3[0];
 let secMax = 0;
 for (let j = 0; j < arr3.length; j++) {
